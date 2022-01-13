@@ -21,6 +21,7 @@ Links uteis para a slide academy
   - https://www.w3schools.com/css/default.asp
   - SASS
     - https://desenvolvimentoparaweb.com/css/o-basico-de-sass/
+    - https://webdesign.tutsplus.com/tutorials/watch-and-compile-sass-in-five-quick-steps--cms-28275
   - Bootstrap
     - https://getbootstrap.com/
   - Styled-components (reactJS)
